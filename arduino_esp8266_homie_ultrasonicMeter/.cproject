@@ -43,6 +43,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/arduino_esp8266_homie_ultrasonicMeter/libraries/ESPAsyncTCP/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/arduino_esp8266_homie_ultrasonicMeter/libraries/homie_1.5}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/arduino_esp8266_homie_ultrasonicMeter/libraries/homie_1.5/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/arduino_esp8266_homie_ultrasonicMeter/libraries/Wire}&quot;"/>
 								</option>
 								<inputType id="it.baeyens.arduino.compiler.cpp.sketch.input.2142317711" name="CPP source files" superClass="it.baeyens.arduino.compiler.cpp.sketch.input"/>
 							</tool>
@@ -72,6 +73,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/arduino_esp8266_homie_ultrasonicMeter/libraries/ESPAsyncTCP/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/arduino_esp8266_homie_ultrasonicMeter/libraries/homie_1.5}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/arduino_esp8266_homie_ultrasonicMeter/libraries/homie_1.5/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/arduino_esp8266_homie_ultrasonicMeter/libraries/Wire}&quot;"/>
 								</option>
 								<inputType id="it.baeyens.arduino.compiler.c.sketch.input.395172969" name="C Source Files" superClass="it.baeyens.arduino.compiler.c.sketch.input"/>
 							</tool>
